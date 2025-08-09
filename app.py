@@ -7,7 +7,7 @@ import os
 import google.generativeai as genai
 from PIL import Image
 
-genai.configure(api_key=os.getenv("AIzaSyDFoHL7FFHwLMLocYi7TvCMRVCM8ZFUgPw"))
+genai.configure(api_key=os.getenv("<Your Google API Key>"))
 
 
 #----------------------------------------------------------------------------
@@ -87,3 +87,4 @@ if submit:
     # Display the response
     st.subheader("The Response is:")
     st.write(response)
+
