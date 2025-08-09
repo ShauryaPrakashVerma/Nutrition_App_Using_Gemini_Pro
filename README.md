@@ -21,17 +21,19 @@ It identifies food items from an uploaded image and estimates **calories per ite
 ---
 
 ## 📂 Project Files
-- `📜 app.py` — Main Streamlit application
-- `📋 requirements.txt` — Python dependencies
-- `📑 Steps To Replicate the App.pdf` — **Follow this PDF for the exact step-by-step setup and execution instructions**
-- `🔑 .env` — API key storage (**not included** in repo; create locally)
+- `📜 app.py` — Main Streamlit application  
+- `📋 requirements.txt` — Python dependencies  
+- `📑 Steps To Replicate the App.pdf` — **Follow this PDF for the exact step-by-step setup and execution instructions**  
+- `🔑 .env` — API key storage (**not included** in repo; create locally)  
+
+---
+
+## 📖 Detailed Setup Guide
+📌 You can follow the **PDF in this repo** or view the **original guide on Notion** for an always up-to-date version:  
+[🔗 **View the Guide on Notion**](https://www.notion.so/Gen-AI-App-Health-Management-System-23d26ac1a6c0803e9ca2e524785ef362?source=copy_link)
 
 ---
 
 ## 🚀 Usage
-📌 **Please refer to** **`Steps To Replicate the App.pdf`** in this repository for the **complete setup and usage guide**.
+Please refer to **`Steps To Replicate the App.pdf`** in this repository or the **Notion link above** for the complete setup and usage guide.
 
----
-
-## 📜 License
-Include a `LICENSE` file of your choice (MIT recommended).
